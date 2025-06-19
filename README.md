@@ -12,7 +12,7 @@ Credits for the images and the sound: [here](https://github.com/clear-code-proje
 ## Packages to Install
 
 ```zsh
-pip install -r requirements.txt
+pip install -r environment/requirements.txt
 ```
 
 ## Running the Game
