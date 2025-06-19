@@ -30,3 +30,16 @@ or
 cd SnakeGameInPython/code
 python main.py
 ```
+
+## Screenshots
+
+<p>
+  <img src="./resources/screenshots/screenshot-1.jpg" height="400" width="365">
+  <img src="./resources/screenshots/screenshot-2.jpg" height="400" width="365">
+  <img src="./resources/screenshots/screenshot-3.jpg" height="400" width="365">
+  <img src="./resources/screenshots/screenshot-4.jpg" height="400" width="365">
+</p>
+
+## Author
+
+Berkay Kush
